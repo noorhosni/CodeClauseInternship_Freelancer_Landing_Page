@@ -4,6 +4,8 @@
 
 **Repository:** [CodeClauseInternship_Freelancer_Landing_Page](https://github.com/noorhosni/CodeClauseInternship_Freelancer_Landing_Page)
 
+**Demo :** https://noorhosni.infinityfreeapp.com/
+
 **Author:** Noor Hosni
 
 ## Description
@@ -49,34 +51,6 @@ The **Freelancer Landing Page** project, created as part of the **CodeClause Int
 
 ```bash
 git clone https://github.com/noorhosni/CodeClauseInternship_Freelancer_Landing_Page.git
-# CodeClauseInternship_Freelancer_Landing_Page
-
-The Freelancer Landing Page project, developed during my internship at CodeClause, is a responsive landing page designed to showcase freelancing services. This project aims to provide a compelling online presence for freelancers specializing in game development, web development, and app development, enabling them to attract and engage potential clients effectively.
-
-
-## Demo
-https://noorhosni.infinityfreeapp.com/
-
-## Installation
-
-1.Install my-project with npm
-
-```bash
-  git clone https://github.com/noorhosni/CodeClauseInternship_Freelancer_Landing_Page.git
-cd CodeClauseInternship_Freelancer_Landing_Page
-```
-2.Open in a Browser:
-
-Simply open index.html in your web browser.
-
-3.WordPress Setup:
-
-If using WordPress, import the provided XML file:
-
-. Log in to your WordPress dashboard.  
-.Go to Tools > Import.                   
-.Choose WordPress and install the WordPress importer if necessary.       
-.Import the file noorhosni.WordPress.2024-06-29.xml.
     
 ## Screenshots
 
