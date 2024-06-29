@@ -1,6 +1,6 @@
 # Freelancer Landing Page
 
-**Project Title:** Freelancer Landing Page for Web, App, and Game Development
+**Project Title:** Freelancer Landing Page 
 
 **Repository:** [CodeClauseInternship_Freelancer_Landing_Page](https://github.com/noorhosni/CodeClauseInternship_Freelancer_Landing_Page)
 
