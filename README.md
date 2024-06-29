@@ -1,7 +1,7 @@
 
 # CodeClauseInternship_Freelancer_Landing_Page
 
-Welcome to the Freelancer Landing Page repository. This project was developed as part of the CodeClause Internship to create a professional landing page for freelancers. The landing page is designed to showcase your skills, services, and portfolio to attract potential clients.
+The Freelancer Landing Page project, developed during my internship at CodeClause, is a responsive landing page designed to showcase freelancing services. This project aims to provide a compelling online presence for freelancers specializing in game development, web development, and app development, enabling them to attract and engage potential clients effectively.
 
 
 ## Demo
