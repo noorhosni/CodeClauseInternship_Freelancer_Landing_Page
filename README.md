@@ -44,13 +44,6 @@ The **Freelancer Landing Page** project, created as part of the **CodeClause Int
 - **JavaScript:** Interactive elements and dynamic functionality.
 - **WordPress:** Content management and customization.
 - **Elementor:** Designing and editing the page layout within WordPress.
-
-## How to Use
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/noorhosni/CodeClauseInternship_Freelancer_Landing_Page.git
     
 ## Screenshots
 
@@ -60,6 +53,8 @@ git clone https://github.com/noorhosni/CodeClauseInternship_Freelancer_Landing_P
 ![image](https://github.com/noorhosni/CodeClauseInternship_Freelancer_Landing_Page/assets/137703915/50f581a4-1d8e-4efa-a5cf-e521702c854d)
 ![image](https://github.com/noorhosni/CodeClauseInternship_Freelancer_Landing_Page/assets/137703915/b5ca7c33-771e-48a0-be76-48bfe6cee30a)
 ![image](https://github.com/noorhosni/CodeClauseInternship_Freelancer_Landing_Page/assets/137703915/a41d059b-139c-4d61-b462-bda003982df1)
+
+
 
 
 
